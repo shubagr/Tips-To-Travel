@@ -13,37 +13,52 @@
     <ImageView
         android:id="@+id/image_1"
         style="@style/image_dimensions"
-        android:src="@drawable/algeria1"/>
+        android:src="@drawable/bahamas1"/>
 
     <ImageView
         android:id="@+id/image_2"
         style="@style/image_dimensions"
-        android:src="@drawable/algeria2"
+        android:src="@drawable/bahamas2"
         />
 
     <ImageView
         android:id="@+id/image_3"
         style="@style/image_dimensions"
-        android:src="@drawable/algeria3"
+        android:src="@drawable/bahamas3"
         />
 
     <ImageView
         android:id="@+id/image_4"
         style="@style/image_dimensions"
-        android:src="@drawable/algeria4"
+        android:src="@drawable/bahamas4"
        />
 
     <ImageView
         android:id="@+id/image_5"
         style="@style/image_dimensions"
-        android:src="@drawable/algeria5"
+        android:src="@drawable/bahamas5"
        />
+
 
     <ImageView
         android:id="@+id/image_6"
         style="@style/image_dimensions"
-        android:src="@drawable/algeria6"
+        android:src="@drawable/bahamas6"
         />
-
+    <ImageView
+        android:id="@+id/image_7"
+        style="@style/image_dimensions"
+        android:src="@drawable/bahamas7"
+        />
+    <ImageView
+        android:id="@+id/image_8"
+        style="@style/image_dimensions"
+        android:src="@drawable/bahamas8"
+        />
+    <ImageView
+        android:id="@+id/image_9"
+        style="@style/image_dimensions"
+        android:src="@drawable/bahamas9"
+        />
 </LinearLayout>
     </ScrollView>
