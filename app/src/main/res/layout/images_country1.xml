@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image_1"
+        style="@style/image_dimensions"
+        android:src="@drawable/algeria1"/>
+
+    <ImageView
+        android:id="@+id/image_2"
+        style="@style/image_dimensions"
+        android:src="@drawable/algeria2"
+        />
+
+    <ImageView
+        android:id="@+id/image_3"
+        style="@style/image_dimensions"
+        android:src="@drawable/algeria3"
+        />
+
+    <ImageView
+        android:id="@+id/image_4"
+        style="@style/image_dimensions"
+        android:src="@drawable/algeria4"
+       />
+
+    <ImageView
+        android:id="@+id/image_5"
+        style="@style/image_dimensions"
+        android:src="@drawable/algeria5"
+       />
+
+    <ImageView
+        android:id="@+id/image_6"
+        style="@style/image_dimensions"
+        android:src="@drawable/algeria6"
+        />
+
+</LinearLayout>
+    </ScrollView>
